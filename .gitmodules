@@ -1,0 +1,9 @@
+[submodule "libopencm3"]
+	path = libopencm3
+	url = https://github.com/libopencm3/libopencm3.git
+[submodule "fatfs"]
+	path = fatfs
+	url = https://github.com/abbrev/fatfs.git
+[submodule "libhelix-mp3"]
+	path = libhelix-mp3
+	url = https://github.com/ultraembedded/libhelix-mp3.git
