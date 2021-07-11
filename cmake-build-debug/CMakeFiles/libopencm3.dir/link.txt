@@ -1,0 +1,2 @@
+arm-none-eabi-ar qc liblibopencm3.a CMakeFiles/libopencm3.dir/libopencm3/lib/cm3/assert.c.obj
+/usr/bin/arm-none-eabi-ranlib liblibopencm3.a

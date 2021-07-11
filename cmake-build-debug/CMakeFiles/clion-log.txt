@@ -1,0 +1,8 @@
+/var/lib/snapd/snap/clion/152/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sohun/Firmware
+CMake Error at CMakeLists.txt:13 (message):
+  Invalid CMAKE_SYSTEM_PROCESSOR:
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/sohun/Firmware/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/sohun/Firmware/cmake-build-debug/CMakeFiles/CMakeError.log".

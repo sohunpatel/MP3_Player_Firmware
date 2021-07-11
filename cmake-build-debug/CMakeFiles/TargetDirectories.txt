@@ -1,0 +1,3 @@
+/home/sohun/Firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sohun/Firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sohun/Firmware/cmake-build-debug/CMakeFiles/MP3-Player.elf.dir
