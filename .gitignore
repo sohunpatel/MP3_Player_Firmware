@@ -56,3 +56,6 @@ dkms.conf
 # Project settings
 .vscode
 MP3_Player/bin
+tags
+*.gdb_history
+*.json
