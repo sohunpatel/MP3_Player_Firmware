@@ -1,2 +1,2 @@
-int test(void);
+void blink(void * parameters);
 int main(void);
