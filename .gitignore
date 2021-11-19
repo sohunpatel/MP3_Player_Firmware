@@ -59,3 +59,5 @@ MP3_Player/bin
 tags
 *.gdb_history
 *.json
+build
+cmake-build-debug
